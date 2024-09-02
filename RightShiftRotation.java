@@ -19,7 +19,7 @@ class RightShiftRotation
 	{
 		int[]a={10,9,1,0,2,3,4,6,6};
 		System.out.println("\nGiven: "+Arrays.toString(a));
-		System.out.print("Enter the n value: ");
+		System.out.println("Enter the n value: ");
 		int n=sc.nextInt();
 
 		int[]res=rightShiftRotation(a,n);
@@ -29,7 +29,7 @@ class RightShiftRotation
 /*
 Given: [10, 9, 1, 0, 2, 3, 4, 6, 6]
 
-Output: [1, 2, 7, 8, 6, 5, 4, 3, 3]
+Enter the n value: 2
 
-Product is: 25
+Output: [1, 0, 2, 3, 4, 6, 6, 10, 9]
 */
