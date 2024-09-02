@@ -29,7 +29,7 @@ class LeftShiftRotation
 /*
 Given: [10, 9, 1, 0, 2, 3, 4, 6, 6]
 
-Output: [1, 2, 7, 8, 6, 5, 4, 3, 3]
+Enter the n value: 2
 
-Product is: 25
+Output: [6, 6, 10, 9, 1, 0, 2, 3, 4]
 */
