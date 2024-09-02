@@ -20,6 +20,7 @@ class AscnAndDescOrderArray
 		}
 
 		System.out.println("\nAsce Order: "+Arrays.toString(a));
+		
 		//Descending Order
 
 		for (int i=0;i<a.length ;i++ )
